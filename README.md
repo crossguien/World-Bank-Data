@@ -37,3 +37,5 @@ Tableau (for dashboard visualization)
 SQL & Python (for raw data prep)
 
 Tableau Dashboard Link: https://public.tableau.com/app/profile/cross.guien/viz/WorldBankData_17529602699510/Story1
+
+World Bank Data Kaggle Link: https://www.kaggle.com/datasets/tanishksharma9905/global-economic-indicators-20102025
